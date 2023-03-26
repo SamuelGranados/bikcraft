@@ -10,6 +10,10 @@
   padding-bottom: 60px;
 }
 
+.footer > img {
+  padding: 20px;
+}
+
 .footer h3 {
   padding-bottom: 32px;
 }
